@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+.blueText {
+  color: deepskyblue;
+}
+
 * {
   box-sizing: border-box;
 }
